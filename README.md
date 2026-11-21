@@ -1,5 +1,5 @@
-# TaskFlow
-一句话简介：一个支持拖拽排序的全栈任务协作看板
+# DevHabit
+一个支持每日打卡与年度热力图可视化的习惯养成应用
 
 ## 技术栈
 - 前端：React + TypeScript + Vite + Tailwind CSS
