@@ -1,3 +1,7 @@
+# Environment & database
+.env
+*.db
+
 # Logs
 logs
 *.log
